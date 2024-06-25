@@ -1,0 +1,7 @@
+#pip install deepface
+#pip install --upgrade deepface
+
+  #1.Import Libraries
+from deepface import DeepFace
+import cv2
+import matplotlib.pyplot as plt
